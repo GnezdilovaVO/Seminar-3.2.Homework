@@ -8,6 +8,6 @@
 
 918 -> 1
 
-[КОД](Homework_001/program.cs)
+![Блок-схема](Homework_001/diagram.drawio.png)
 
-![Блок-схема](Homework_001/diagram.drawio.phg)
+[КОД](Homework_001/program.cs)
