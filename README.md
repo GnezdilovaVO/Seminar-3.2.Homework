@@ -14,7 +14,7 @@
 2. Находим вторую цифру.
 3. Выводим результат. 
 
-![Блок-схема](Homework_001/diagram.drawio.png)
+![Блок-схема][def]
 
 [КОД](Homework_001/program.cs)
 
@@ -37,3 +37,5 @@
 ![Блок-схема](Homework_002/diagram.drawio.png)
 
 [КОД](Homework_002/program.cs)
+
+[def]: Homework_001/diagram.drawio.png
